@@ -1,0 +1,14 @@
+C:\projects\XmlParser\bin\Debug\net7.0\XmlParser.exe
+C:\projects\XmlParser\bin\Debug\net7.0\XmlParser.deps.json
+C:\projects\XmlParser\bin\Debug\net7.0\XmlParser.runtimeconfig.json
+C:\projects\XmlParser\bin\Debug\net7.0\XmlParser.dll
+C:\projects\XmlParser\bin\Debug\net7.0\XmlParser.pdb
+C:\projects\XmlParser\obj\Debug\net7.0\XmlParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\XmlParser\obj\Debug\net7.0\XmlParser.AssemblyInfoInputs.cache
+C:\projects\XmlParser\obj\Debug\net7.0\XmlParser.AssemblyInfo.cs
+C:\projects\XmlParser\obj\Debug\net7.0\XmlParser.csproj.CoreCompileInputs.cache
+C:\projects\XmlParser\obj\Debug\net7.0\XmlParser.dll
+C:\projects\XmlParser\obj\Debug\net7.0\refint\XmlParser.dll
+C:\projects\XmlParser\obj\Debug\net7.0\XmlParser.pdb
+C:\projects\XmlParser\obj\Debug\net7.0\XmlParser.genruntimeconfig.cache
+C:\projects\XmlParser\obj\Debug\net7.0\ref\XmlParser.dll
